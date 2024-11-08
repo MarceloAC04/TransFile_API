@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\historytranslatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\historytranslatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\historyconvertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\historyconvertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\services\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:services\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Services\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Services\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Services\\Criptografia.cs",
+              "RelativeToolTip": "Services\\Criptografia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:18:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T12:15:06.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryConvertController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistoryConvertController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
+              "RelativeToolTip": "Controllers\\HistoryConvertController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wEoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:07:59.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryTranslateController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistoryTranslateController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
+              "RelativeToolTip": "Controllers\\HistoryTranslateController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:57:47.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowGEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:37:49.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwCAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:32:16.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAqwHoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:27:37.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
