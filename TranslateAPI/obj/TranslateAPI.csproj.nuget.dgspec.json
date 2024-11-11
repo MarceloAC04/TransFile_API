@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\TranslateAPI.csproj": {}
+    "C:\\Users\\45922978810\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\TranslateAPI.csproj": {
+    "C:\\Users\\45922978810\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\TranslateAPI.csproj",
+        "projectUniqueName": "C:\\Users\\45922978810\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj",
         "projectName": "TranslateAPI",
-        "projectPath": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\TranslateAPI.csproj",
-        "packagesPath": "C:\\Users\\48260449846\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\obj\\",
+        "projectPath": "C:\\Users\\45922978810\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj",
+        "packagesPath": "C:\\Users\\45922978810\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\45922978810\\Desktop\\TransFile_API\\TranslateAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48260449846\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\45922978810\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,6 +48,14 @@
               "target": "Package",
               "version": "[24.10.0, )"
             },
+            "Azure.AI.Translation.Document": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.22.2, )"
+            },
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
@@ -69,6 +67,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "MongoDB.Bson": {
               "target": "Package",
@@ -106,6 +108,10 @@
               "target": "Package",
               "version": "[5.6.0, )"
             },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[8.2.0, )"
@@ -130,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
