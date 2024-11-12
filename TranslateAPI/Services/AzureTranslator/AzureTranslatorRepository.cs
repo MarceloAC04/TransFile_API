@@ -10,20 +10,20 @@ namespace TranslateAPI.Services.AzureTranslator
     public class AzureTranslatorRepository : IAzureTranslatorInterface
     {
 
-        private string _connectionString = "DefaultEndpointsProtocol=https;AccountName=transfilestoragetest;AccountKey=IsbcuPou48XNu9CG3c1Bxp9ruMLBtGzUJFUcszbR/EaYxrNt2uirawgLM9nZJOn9Do6HtiwFilGT+ASt+YCm0g==;EndpointSuffix=core.windows.net";
+        private string _connectionString = "";
         public async Task Translate(string language)
         {
 
 
 
 
-            string endpoint = "https://transfiletest.cognitiveservices.azure.com/";
-            string apiKey = "Wvx4nkCTyF7ZbnHdSEpektRj51pdjlWIQKXHnFKRYHniXrOROKr7JQQJ99AKACZoyfiXJ3w3AAAbACOGdu0o";
+            string endpoint = "";
+            string apiKey = "";
 
             var client = new DocumentTranslationClient(new Uri(endpoint), new AzureKeyCredential(apiKey));
 
-            Uri sourceUri = new Uri("https://transfilestoragetest.blob.core.windows.net/filetest?sp=racwdl&st=2024-11-11T13:00:51Z&se=2024-12-20T21:00:51Z&sv=2022-11-02&sr=c&sig=5ZapAfneZ0TYzyF4p2CQ8cOXsPZcE0n5OtGId%2F%2BsPnA%3D");
-            Uri targetUri = new Uri("https://transfilestoragetest.blob.core.windows.net/traductions?sp=racwdl&st=2024-11-11T12:46:59Z&se=2024-12-20T20:46:59Z&sv=2022-11-02&sr=c&sig=ia8r%2B5N%2B1gw%2BBXa93xBkqPuL8bayJpz6PSzh3f9Duig%3D");
+            Uri sourceUri = new Uri("");
+            Uri targetUri = new Uri("");
             var input = new DocumentTranslationInput(sourceUri, targetUri, $"{language}");
 
 

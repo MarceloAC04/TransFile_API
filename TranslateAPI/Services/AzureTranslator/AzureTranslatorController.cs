@@ -114,7 +114,7 @@ namespace TranslateAPI.Services.AzureTranslator
         [HttpGet("DownloadFiles")]
         public async Task<IActionResult> DowloadFile()
         {
-            string _connectionString = "DefaultEndpointsProtocol=https;AccountName=transfilestoragetest;AccountKey=IsbcuPou48XNu9CG3c1Bxp9ruMLBtGzUJFUcszbR/EaYxrNt2uirawgLM9nZJOn9Do6HtiwFilGT+ASt+YCm0g==;EndpointSuffix=core.windows.net";
+            string _connectionString = "";
 
             BlobContainerClient blobContainerClient = new BlobContainerClient(_connectionString, "traductions");
 
