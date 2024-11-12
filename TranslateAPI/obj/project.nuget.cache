@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0Hdx16URB5oFm9S0slzS6odEkVllKCeqcdgh/6aI1MxsPm+LPB+Ks3WxyZMXR+OVJ627W+9e7pUCkh5r9EYRA==",
+  "dgSpecHash": "F7dLFOk8xNRTBOMYMVQLhrE92S+XHeMGmad8aY7uimqEtKuS4I9Ip9AgP4es/xibZIYKMNqC5//Y7g0z5ETZhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\TranslateAPI.csproj",
+  "projectFilePath": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48260449846\\.nuget\\packages\\aspose.pdf\\24.10.0\\aspose.pdf.24.10.0.nupkg.sha512",
     "C:\\Users\\48260449846\\.nuget\\packages\\aspose.words\\24.10.0\\aspose.words.24.10.0.nupkg.sha512",

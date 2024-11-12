@@ -1,37 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\translateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:translateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\historytranslatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\controllers\\historytranslatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\historytranslatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\controllers\\historyconvertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\controllers\\historyconvertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:controllers\\historyconvertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile\\translateapi\\services\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|c:\\users\\48260449846\\desktop\\transfile_api\\translateapi\\services\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B0EDB53-196B-4FD5-912E-82D289A373A8}|TranslateAPI.csproj|solutionrelative:services\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,28 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 143,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-08T13:12:07.627Z",
+              "DocumentIndex": 1,
+              "Title": "TranslateAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj",
+              "RelativeDocumentMoniker": "TranslateAPI.csproj",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\TranslateAPI.csproj",
+              "RelativeToolTip": "TranslateAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T10:53:00.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T13:16:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Criptografia.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Services\\Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Services\\Criptografia.cs",
               "RelativeDocumentMoniker": "Services\\Criptografia.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Services\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Services\\Criptografia.cs",
               "RelativeToolTip": "Services\\Criptografia.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,25 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-08T12:15:06.393Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "HistoryConvertController.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
               "RelativeDocumentMoniker": "Controllers\\HistoryConvertController.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\HistoryConvertController.cs",
               "RelativeToolTip": "Controllers\\HistoryConvertController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAA1wEoAAAATAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwEoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T12:07:59.704Z"
             },
@@ -97,11 +94,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HistoryTranslateController.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
               "RelativeDocumentMoniker": "Controllers\\HistoryTranslateController.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\HistoryTranslateController.cs",
               "RelativeToolTip": "Controllers\\HistoryTranslateController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwEoAAAATAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T11:57:47.483Z"
             },
@@ -109,39 +106,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAowGEAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:37:49.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T11:37:49.498Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile_API\\TranslateAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAYwCAAAABrAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCAAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T11:32:16.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\48260449846\\Desktop\\TransFile\\TranslateAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAqwHoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T11:27:37.304Z",
-              "EditorCaption": ""
             }
           ]
         }
